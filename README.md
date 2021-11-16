@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ktttnv. I'm a Full-stack web developer
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Java
 - 📫 How to reach me: e.tatanova@mail.ru
 
 <!---
