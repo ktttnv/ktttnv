@@ -11,7 +11,7 @@
   4. Visual Studio Code расширение. Добавила поддержку многокорневого воркспейса (https://github.com/microsoft/vscode-react-native/pull/1540)
   5. Apache Beam. Реализовала класс-оболочку для плагина CDAP для интеграции с Apache Beam (https://github.com/apache/beam/pull/17150)
   
-- 📫 Как связаться со мной: _e.tatanova@mail.ru, tg: @katch1_
+- 📫 Как связаться со мной: _e.tatanova@mail.ru, tg: [@katch_me](https://t.me/katch_me)_
 
 p.s. мои старые аккаунты в GitHub: [ekaterina-tatanova](https://github.com/ekaterina-tatanova), [etatanova](https://github.com/etatanova)
 
@@ -31,7 +31,7 @@ p.s. мои старые аккаунты в GitHub: [ekaterina-tatanova](https:
   4. Visual Studio Code extension. Added multiroot workspace support (https://github.com/microsoft/vscode-react-native/pull/1540)
   5. Apache Beam. Implemented wrapper class for CDAP plugin for integration with Apache Beam (https://github.com/apache/beam/pull/17150)
 
-- 📫 How to reach me: _e.tatanova@mail.ru, Telegram app: @katch1_
+- 📫 How to reach me: _e.tatanova@mail.ru, Telegram app: [@katch_me](https://t.me/katch_me)_
 
 p.s. my old accounts in GitHub: [ekaterina-tatanova](https://github.com/ekaterina-tatanova), [etatanova](https://github.com/etatanova)
 
