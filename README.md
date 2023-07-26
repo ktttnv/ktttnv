@@ -1,6 +1,6 @@
 **_RUS:_**
 
-- 👋 Привет, я Катя. Я являюсь разработчиком с опытом более 3 лет.
+- 👋 Привет, я Катя. Я являюсь разработчиком с опытом более 4 лет.
 - 👀 Мне интересно изучать новые технологии.
 - 🌱 В настоящее время я разрабатываю фронтенд часть веб-приложения.
 - 👩‍💻 Часть моих контрибьютов в опенсорс:
@@ -20,7 +20,7 @@ p.s. мои старые аккаунты в GitHub: [ekaterina-tatanova](https:
 
 **_ENG:_**
 
-- 👋 Hi, I’m Katya. I'm a software developer with over 3 years experience.
+- 👋 Hi, I’m Katya. I'm a software developer with over 4 years experience.
 - 👀 I’m interested in learning new technologies.
 - 🌱 Currently I'm developing front-end part of web application.
 - 👩‍💻 Part of my open source contributions:
