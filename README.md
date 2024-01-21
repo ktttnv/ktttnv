@@ -2,7 +2,7 @@
 
 - 👋 Привет, я Катя. Я являюсь разработчиком с опытом более 4 лет.
 - 👀 Мне интересно изучать новые технологии.
-- 🌱 В настоящее время я разрабатываю фронтенд часть веб-приложения.
+- 🌱 В настоящее время я разрабатываю бэкенд часть веб-приложения.
 - 👩‍💻 Часть моих контрибьютов в опенсорс:
 
   1. Скрипты в Azure пайплайнах. Добавила .dmg и .pkg поддержку для macOS устройств для скрипта JavaToolInstallerV0 (https://github.com/microsoft/azure-pipelines-tasks/pull/13203)
@@ -22,7 +22,7 @@ p.s. мои старые аккаунты в GitHub: [ekaterina-tatanova](https:
 
 - 👋 Hi, I’m Katya. I'm a software developer with over 4 years experience.
 - 👀 I’m interested in learning new technologies.
-- 🌱 Currently I'm developing front-end part of web application.
+- 🌱 Currently I'm developing back-end part of web application.
 - 👩‍💻 Part of my open source contributions:
 
   1. Azure Pipelines Tasks. Added .dmg and .pkg support for macOS devices for JavaToolInstallerV0 task (https://github.com/microsoft/azure-pipelines-tasks/pull/13203)
